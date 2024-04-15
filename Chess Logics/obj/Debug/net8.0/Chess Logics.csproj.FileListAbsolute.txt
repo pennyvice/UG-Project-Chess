@@ -1,0 +1,12 @@
+C:\Users\ADITYA YADAV\source\repos\Chess App\Chess Logics\bin\Debug\net8.0\Chess Logics.deps.json
+C:\Users\ADITYA YADAV\source\repos\Chess App\Chess Logics\bin\Debug\net8.0\Chess Logics.dll
+C:\Users\ADITYA YADAV\source\repos\Chess App\Chess Logics\bin\Debug\net8.0\Chess Logics.pdb
+C:\Users\ADITYA YADAV\source\repos\Chess App\Chess Logics\obj\Debug\net8.0\Chess Logics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADITYA YADAV\source\repos\Chess App\Chess Logics\obj\Debug\net8.0\Chess Logics.AssemblyInfoInputs.cache
+C:\Users\ADITYA YADAV\source\repos\Chess App\Chess Logics\obj\Debug\net8.0\Chess Logics.AssemblyInfo.cs
+C:\Users\ADITYA YADAV\source\repos\Chess App\Chess Logics\obj\Debug\net8.0\Chess Logics.csproj.CoreCompileInputs.cache
+C:\Users\ADITYA YADAV\source\repos\Chess App\Chess Logics\obj\Debug\net8.0\Chess Logics.sourcelink.json
+C:\Users\ADITYA YADAV\source\repos\Chess App\Chess Logics\obj\Debug\net8.0\Chess Logics.dll
+C:\Users\ADITYA YADAV\source\repos\Chess App\Chess Logics\obj\Debug\net8.0\refint\Chess Logics.dll
+C:\Users\ADITYA YADAV\source\repos\Chess App\Chess Logics\obj\Debug\net8.0\Chess Logics.pdb
+C:\Users\ADITYA YADAV\source\repos\Chess App\Chess Logics\obj\Debug\net8.0\ref\Chess Logics.dll
